@@ -1,0 +1,16 @@
+{
+"companyName": "Americana",
+"productName": "Americana Heroz",
+"productVersion": "1.0",
+"dataUrl": "Americana Heroz Web.data.unityweb",
+"wasmCodeUrl": "Americana Heroz Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Americana Heroz Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
